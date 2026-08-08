@@ -1,2 +1,4 @@
-# student-management-system
-management system
+username 
+password
+gmail
+phone number
